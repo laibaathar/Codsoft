@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quote app</string>
+
+    <string name="q1"> "The only way to do great work is to love what you do."  \n\n - Steve Jobs</string>
+    <string name="q2">"Believe you can and you're halfway there." \n\n - Theodore Roosevelt</string>
+    <string name="q3">"Success is not final, failure is not fatal: It is the courage to continue that counts." \n\n - Winston Churchill</string>
+    <string name="q4">"The future belongs to those who believe in the beauty of their dreams." \n\n - Eleanor Roosevelt</string>
+    <string name="q5">"Don't watch the clock; do what it does. Keep going." \n\n - Sam Levenson</string>
+    <string name="q6">"The only person you are destined to become is the person you decide to be." \n\n - Ralph Waldo Emerson</string>
+    <string name="q7">"The harder the conflict, the greater the triumph." \n\n - George Washington</string>
+    <string name="q8">"Success is walking from failure to failure with no loss of enthusiasm." \n\n - Winston Churchill</string>
+    <string name="q9">"It does not matter how slowly you go as long as you do not stop." \n\n - Confucius</string>
+    <string name="q10">"The secret of getting ahead is getting started." \n\n - Mark Twain</string>
+    <string name="q11">"Your time is limited, don't waste it living someone else's life." \n\n - Steve Jobs</string>
+    <string name="q12">"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." \n\n - Christian D. Larson</string>
+    <string name="q13">"The only limit to our realization of tomorrow will be our doubts of today." \n\n - Franklin D. Roosevelt</string>
+    <string name="q14">"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." \n\n - Albert Schweitzer</string>
+    <string name="q15">"What you get by achieving your goals is not as important as what you become by achieving your goals." \n\n - Zig Ziglar</string>
+
+</resources>
